@@ -12,3 +12,4 @@ Step 2: Run Code
 -  a. arc_distance.csv (contains the distance of points of interest)
 -  b. residences_data.csv (contains residential information of Punggol Town)
 -  c. kiosk_data_base.xlsx (contains information on carparks within Punggol which are available for placement of kiosks)
+- Note: Gurobi package was used for mixed integer programming purposes
